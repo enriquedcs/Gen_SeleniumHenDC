@@ -1,0 +1,5 @@
+{
+  "login_testsWK.py": true,
+  "login_testsWK.py::LoginTests::test_invalidLogin": true,
+  "login_testsWK.py::LoginTests::test_validLogin": true
+}

@@ -1,0 +1,12 @@
+{
+  "test/home/iCART_order_test.py::iCARTTests::test_icart": true,
+  "test/home/iCART_order_test.py::iCARTTests::test_icart_3___HCLAAAutomationnn____8587658936____johny_cash_wolterskluwer_com____HCLAAAutomationnn____153______input__id__chkBoxState_2____": true,
+  "test/home/incorp_company_test.py::IncorporateTests::test_registeredagent": true,
+  "test/home/login_tests.py::LoginTests::test_invalidLogin": true,
+  "test/home/login_tests.py::LoginTests::test_validLogin": true,
+  "test/home/login_testsWK.py": true,
+  "test/home/order_smoke_test.py::LoginTests::test_validLogin": true,
+  "test/home/order_smoke_test.py::SmokeTests::test_valid_1___enoc_delgadillo_wolterskluwer_com____Today123____Connecticut____Test____Company_Test____123__": true,
+  "test/home/portal_tests.py::LoginTests::test_validLogin": true,
+  "test/home/register_agent_test.py::RegisterTests::test_registeredagent_2___enrique_decoss_wolterskluwer_com____Today123____Connecticut____Testito____Company_HCLTest____357__": true
+}

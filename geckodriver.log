@@ -1,0 +1,1312 @@
+1532633115485	geckodriver	INFO	geckodriver 0.21.0
+1532633115499	geckodriver	INFO	Listening on 127.0.0.1:64560
+1532633118527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.tOisfQGLl7wQ"
+Unable to read VR Path Registry from C:\Users\enriquealejandro.d\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\enriquealejandro.d\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\enriquealejandro.d\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\enriquealejandro.d\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\enriquealejandro.d\AppData\Local\openvr\openvrpaths.vrpath
+1532633125142	Marionette	INFO	Listening on port 64569
+1532633125207	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9632, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1532633393004	geckodriver	INFO	geckodriver 0.21.0
+1532633393022	geckodriver	INFO	Listening on 127.0.0.1:64748
+1532633396006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.UQ8yaMAWkZha"
+Unable to read VR Path Registry from C:\Users\enriquealejandro.d\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\enriquealejandro.d\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\enriquealejandro.d\AppData\Local\openvr\openvrpaths.vrpath
+1532633403664	Marionette	INFO	Listening on port 64760
+1532633403759	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\enriquealejandro.d\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\enriquealejandro.d\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7368, Chrome_ChildThread] WARNING: pipe error: 109: file z:[Child 2112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2112, C[GPU 4820, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533055654773	geckodriver	INFO	geckodriver 0.21.0
+1533055654783	geckodriver	INFO	Listening on 127.0.0.1:53311
+1533055657644	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.WzxTT1foXWkS"
+1533055667728	Marionette	INFO	Listening on port 53323
+1533055668442	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4[Parent 22144, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533060378721	geckodriver	INFO	geckodriver 0.21.0
+1533060378731	geckodriver	INFO	Listening on 127.0.0.1:60185
+1533061294060	geckodriver	INFO	geckodriver 0.21.0
+1533061294060	geckodriver	INFO	Listening on 127.0.0.1:61794
+1533061296999	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.ghgnO8ttovcl"
+1533061304089	Marionette	INFO	Listening on port 61806
+1533061304301	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Child 14268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 4696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533061397065	geckodriver	INFO	geckodriver 0.21.0
+1533061397066	geckodriver	INFO	Listening on 127.0.0.1:61987
+1533061400031	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.hY5Yugu7p0Ks"
+1533061405260	Marionette	INFO	Listening on port 62000
+1533061405679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Parent 14580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533061734465	geckodriver	INFO	geckodriver 0.21.0
+1533061734474	geckodriver	INFO	Listening on 127.0.0.1:62585
+1533061795014	geckodriver	INFO	geckodriver 0.21.0
+1533061795030	geckodriver	INFO	Listening on 127.0.0.1:62687
+1533061798001	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.pZAekr4lK8Hl"
+1533061803251	Marionette	INFO	Listening on port 62702
+1533061803938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Child 15844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15844, Chrome_ChildThread] WARNING: pipe error: 109: file [
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533142276956	geckodriver	INFO	geckodriver 0.21.0
+1533142276967	geckodriver	INFO	Listening on 127.0.0.1:60429
+1533142279512	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.n08i2UeC5qRZ"
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1533142301998	Marionette	INFO	Listening on port 60437
+1533142302499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14052, Chrome_ChildThreJavaScript error: https://preprod.ct.wolterskluwer.com/cart, line 105: TypeError: connection.transport is null
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Parent 11288, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1533142463370	geckodriver	INFO	geckodriver 0.21.0
+1533142463386	geckodriver	INFO	Listening on 127.0.0.1:60994
+1533142466343	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.CjXwTbHCUSVk"
+1533142475846	Marionette	INFO	Listening on port 61004
+1533142476242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 22812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22812, Chrome_ChildThrea[Parent 16236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533143051128	geckodriver	INFO	geckodriver 0.21.0
+1533143051142	geckodriver	INFO	Listening on 127.0.0.1:61700
+1533151629847	geckodriver	INFO	geckodriver 0.21.0
+1533151629862	geckodriver	INFO	Listening on 127.0.0.1:50661
+1533151632684	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.aG2Qsw1tjFS4"
+[Child 17232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1533151665116	Marionette	INFO	Listening on port 50669
+1533151665713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+1533151839468	geckodriver	INFO	geckodriver 0.21.0
+1533151839477	geckodriver	INFO	Listening on 127.0.0.1:50932
+1533151842452	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.ErphKxq7HgWI"
+1533151848135	Marionette	INFO	Listening on port 50940
+1533151848895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/cart, line 105: TypeError: connection.transport is null
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533151992298	geckodriver	INFO	geckodriver 0.21.0
+1533151992309	geckodriver	INFO	Listening on 127.0.0.1:51099
+1533151995234	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.T0kkx4vwn1U4"
+1533152000805	Marionette	INFO	Listening on port 51107
+1533152001272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 8008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533156278010	geckodriver	INFO	geckodriver 0.21.0
+1533156278020	geckodriver	INFO	Listening on 127.0.0.1:54542
+1533156280961	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.WfYWahrWhaIE"
+[Parent 21128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1533156297316	Marionette	INFO	Listening on port 54554
+1533156297953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 13584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Parent 21128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 21128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16348
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533156476944	geckodriver	INFO	geckodriver 0.21.0
+1533156476954	geckodriver	INFO	Listening on 127.0.0.1:54877
+1533156479893	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.hJab4fMXkVXy"
+1533156485701	Marionette	INFO	Listening on port 54885
+1533156486235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/cart, line 105: TypeError: connection.transport is null
+[Parent 7664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6768, Ch[GPU 216, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533156711870	geckodriver	INFO	geckodriver 0.21.0
+1533156711880	geckodriver	INFO	Listening on 127.0.0.1:55229
+1533156714846	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.4NIYF60yW9UQ"
+1533156720496	Marionette	INFO	Listening on port 55237
+1533156720956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533218944897	geckodriver	INFO	geckodriver 0.21.0
+1533218944912	geckodriver	INFO	Listening on 127.0.0.1:51098
+1533218947990	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.9ZEURaqs3TIB"
+1533218956711	Marionette	INFO	Listening on port 51106
+1533218956976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533219327631	geckodriver	INFO	geckodriver 0.21.0
+1533219327647	geckodriver	INFO	Listening on 127.0.0.1:51276
+1533219330615	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.j64BXxLHpzNW"
+1533219335640	Marionette	INFO	Listening on port 51284
+1533219335659	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13776*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533219433209	geckodriver	INFO	geckodriver 0.21.0
+1533219433209	geckodriver	INFO	Listening on 127.0.0.1:51405
+1533219436240	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.sv4B1jUop0XF"
+1533219441240	Marionette	INFO	Listening on port 51414
+1533219441298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533222875853	geckodriver	INFO	geckodriver 0.21.0
+1533222875869	geckodriver	INFO	Listening on 127.0.0.1:55315
+1533222878853	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.wk1pMm1hCAEr"
+1533222884703	Marionette	INFO	Listening on port 55323
+1533222885518	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533223048001	geckodriver	INFO	geckodriver 0.21.0
+1533223048001	geckodriver	INFO	Listening on 127.0.0.1:55486
+1533223051001	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.SU14XnmhW269"
+1533223056044	Marionette	INFO	Listening on port 55494
+1533223056109	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build[Child 15440, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 15440, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 15440, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 15440, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 15440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533223124144	geckodriver	INFO	geckodriver 0.21.0
+1533223124159	geckodriver	INFO	Listening on 127.0.0.1:55610
+1533223126800	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.bn05QIYercQC"
+1533223131879	Marionette	INFO	Listening on port 55618
+1533223132002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Parent 17392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533223260084	geckodriver	INFO	geckodriver 0.21.0
+1533223260084	geckodriver	INFO	Listening on 127.0.0.1:55764
+1533223263084	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.reaIf59IDWKy"
+1533223268074	Marionette	INFO	Listening on port 55772
+1533223268194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Child 16952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16952, Chrome_ChildThread] WARNING: pipe error: 109: f[Child 14564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533223353302	geckodriver	INFO	geckodriver 0.21.0
+1533223353318	geckodriver	INFO	Listening on 127.0.0.1:55892
+1533223356302	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.XECZ8fTStrHy"
+1533223361629	Marionette	INFO	Listening on port 55900
+1533223362193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/cart, line 105: TypeError: connection.transport is null
+[Child 10656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build[GPU 8792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533227209088	geckodriver	INFO	geckodriver 0.21.0
+1533227209097	geckodriver	INFO	Listening on 127.0.0.1:56681
+1533227212095	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.urBY4RdMNiRh"
+1533227217462	Marionette	INFO	Listening on port 56689
+1533227218096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Child 2956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[GPU 11700, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533227429466	geckodriver	INFO	geckodriver 0.21.0
+1533227429482	geckodriver	INFO	Listening on 127.0.0.1:56812
+1533227432444	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.0IRslGXayKNs"
+1533227437909	Marionette	INFO	Listening on port 56820
+1533227438468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Child 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+5432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5432, Chrome_ChildThread] WARNING: pipe error: 109: file z:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533574078349	geckodriver	INFO	geckodriver 0.21.0
+1533574078365	geckodriver	INFO	Listening on 127.0.0.1:58939
+1533574137456	geckodriver	INFO	geckodriver 0.21.0
+1533574137466	geckodriver	INFO	Listening on 127.0.0.1:59035
+1533574140514	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.GFfQNELgRSsa"
+1533574149114	Marionette	INFO	Listening on port 59047
+1533574149752	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1232
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533574484611	geckodriver	INFO	geckodriver 0.21.0
+1533574484621	geckodriver	INFO	Listening on 127.0.0.1:59609
+1533574487602	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.SvqWde8qZ2kD"
+1533574492466	Marionette	INFO	Listening on port 59621
+1533574492777	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11452, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533575091359	geckodriver	INFO	geckodriver 0.21.0
+1533575091390	geckodriver	INFO	Listening on 127.0.0.1:60707
+1533575094377	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.hS5ih0wT6f0H"
+1533575099350	Marionette	INFO	Listening on port 60721
+1533575099776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Child 9740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9740, Chrome_ChildThread] WARNING: pipe error: 109
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533575303702	geckodriver	INFO	geckodriver 0.21.0
+1533575303724	geckodriver	INFO	Listening on 127.0.0.1:61147
+1533575306661	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.GV8N4NNBD84X"
+1533575314224	Marionette	INFO	Listening on port 61159
+1533575315041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 17368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[GPU 11160, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533575530402	geckodriver	INFO	geckodriver 0.21.0
+1533575530418	geckodriver	INFO	Listening on 127.0.0.1:61640
+1533575533421	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.bODSKw8phpzg"
+1533575538841	Marionette	INFO	Listening on port 61654
+1533575539207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533575674237	geckodriver	INFO	geckodriver 0.21.0
+1533575674237	geckodriver	INFO	Listening on 127.0.0.1:62026
+1533575677186	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.u00xk5H6NRBm"
+1533575682227	Marionette	INFO	Listening on port 62039
+1533575682320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2292, C[Parent 9492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13776, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533576406884	geckodriver	INFO	geckodriver 0.21.0
+1533576406899	geckodriver	INFO	Listening on 127.0.0.1:63512
+1533576409864	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.vEVRzAeJegsX"
+1533576417664	Marionette	INFO	Listening on port 63525
+1533576417701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533585495275	geckodriver	INFO	geckodriver 0.21.0
+1533585495290	geckodriver	INFO	Listening on 127.0.0.1:61336
+1533585498307	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.3At0x7dIwiqV"
+1533585507186	Marionette	INFO	Listening on port 61348
+1533585507239	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533585817225	geckodriver	INFO	geckodriver 0.21.0
+1533585817225	geckodriver	INFO	Listening on 127.0.0.1:61855
+1533585820195	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.m2cs7TKVsiEA"
+1533585825461	Marionette	INFO	Listening on port 61867
+1533585826026	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533586234144	geckodriver	INFO	geckodriver 0.21.0
+1533586234144	geckodriver	INFO	Listening on 127.0.0.1:62495
+1533586237132	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.qQpLQvr0FtCm"
+1533586243233	Marionette	INFO	Listening on port 62507
+1533586243250	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533586632880	geckodriver	INFO	geckodriver 0.21.0
+1533586632896	geckodriver	INFO	Listening on 127.0.0.1:63122
+1533586686418	geckodriver	INFO	geckodriver 0.21.0
+1533586686434	geckodriver	INFO	Listening on 127.0.0.1:63207
+1533586689383	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.XuhasKWRs82D"
+1533586694926	Marionette	INFO	Listening on port 63223
+1533586695619	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 98
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533587083030	geckodriver	INFO	geckodriver 0.21.0
+1533587083030	geckodriver	INFO	Listening on 127.0.0.1:63842
+1533587086016	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.yGuJkdjWa3IY"
+1533587091239	Marionette	INFO	Listening on port 63854
+1533587091764	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 3236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533587315159	geckodriver	INFO	geckodriver 0.21.0
+1533587315159	geckodriver	INFO	Listening on 127.0.0.1:64227
+1533587318123	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.Ft0bPQRbCEkw"
+1533587322771	Marionette	INFO	Listening on port 64239
+1533587323556	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1898[Child 17380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533587663147	geckodriver	INFO	geckodriver 0.21.0
+1533587663162	geckodriver	INFO	Listening on 127.0.0.1:64780
+1533587666142	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.toRRtJ6QAm1N"
+1533587670675	Marionette	INFO	Listening on port 64794
+1533587671312	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom[Child 68, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 68, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533587935435	geckodriver	INFO	geckodriver 0.21.0
+1533587935435	geckodriver	INFO	Listening on 127.0.0.1:65238
+1533587938445	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.SGklmzLnrr0e"
+1533587943226	Marionette	INFO	Listening on port 65253
+1533587943661	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15100[Child 4844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4[Parent 15336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 392,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533588182902	geckodriver	INFO	geckodriver 0.21.0
+1533588182918	geckodriver	INFO	Listening on 127.0.0.1:49270
+1533588185870	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.GQpNmhjLyoSI"
+1533588190587	Marionette	INFO	Listening on port 49282
+1533588190912	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533588477392	geckodriver	INFO	geckodriver 0.21.0
+1533588477408	geckodriver	INFO	Listening on 127.0.0.1:49772
+1533588480378	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.KCf28AT20wN1"
+1533588484852	Marionette	INFO	Listening on port 49784
+1533588485363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[[Child 14544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[GPU 3280, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533671169575	geckodriver	INFO	geckodriver 0.21.0
+1533671169575	geckodriver	INFO	Listening on 127.0.0.1:56807
+1533671172590	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.Khp83b1WsQ3u"
+1533671182963	Marionette	INFO	Listening on port 56816
+1533671183736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533672291578	geckodriver	INFO	geckodriver 0.21.0
+1533672291589	geckodriver	INFO	Listening on 127.0.0.1:57129
+1533672294556	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.OpCiUGSsHeSh"
+1533672300102	Marionette	INFO	Listening on port 57137
+1533672300605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[GPU 12452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533672512002	geckodriver	INFO	geckodriver 0.21.0
+1533672512012	geckodriver	INFO	Listening on 127.0.0.1:57307
+1533672514997	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.EfVSDEQEq8Mz"
+1533672519404	Marionette	INFO	Listening on port 57315
+1533672519741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 16604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Child 6660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533675847238	geckodriver	INFO	geckodriver 0.21.0
+1533675847249	geckodriver	INFO	Listening on 127.0.0.1:58424
+1533675850231	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.vnrqAfaWVuUZ"
+1533675856118	Marionette	INFO	Listening on port 58432
+1533675856774	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1248, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533676068088	geckodriver	INFO	geckodriver 0.21.0
+1533676068098	geckodriver	INFO	Listening on 127.0.0.1:58587
+1533676071024	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.I3e2ro9kBEwT"
+1533676076140	Marionette	INFO	Listening on port 58597
+1533676076725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533676331448	geckodriver	INFO	geckodriver 0.21.0
+1533676331459	geckodriver	INFO	Listening on 127.0.0.1:58775
+1533676334433	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.WYwDvczNERgp"
+1533676339578	Marionette	INFO	Listening on port 58793
+1533676340055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 14936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14936, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533676988636	geckodriver	INFO	geckodriver 0.21.0
+1533676988647	geckodriver	INFO	Listening on 127.0.0.1:60086
+1533676991626	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.pwMuP2fNFjQ0"
+1533676996664	Marionette	INFO	Listening on port 60098
+1533676997207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533745247789	geckodriver	INFO	geckodriver 0.21.0
+1533745247803	geckodriver	INFO	Listening on 127.0.0.1:52839
+1533745250570	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.eGyFdyibP8ro"
+1533745259322	Marionette	INFO	Listening on port 52847
+1533745259958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533745525113	geckodriver	INFO	geckodriver 0.21.0
+1533745525125	geckodriver	INFO	Listening on 127.0.0.1:53078
+1533745528087	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.XYwX7e83vlvn"
+1533745533860	Marionette	INFO	Listening on port 53088
+1533745534338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533746876180	geckodriver	INFO	geckodriver 0.21.0
+1533746876188	geckodriver	INFO	Listening on 127.0.0.1:53784
+1533746879203	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.ECPpBEhMTmr8"
+1533746885981	Marionette	INFO	Listening on port 53792
+1533746886455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Child 18564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 18564, Chrome_ChildThread] WARNING: pipe error[Child 5704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533747029058	geckodriver	INFO	geckodriver 0.21.0
+1533747029070	geckodriver	INFO	Listening on 127.0.0.1:53959
+1533747032039	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.vbLIK7eRk5k5"
+1533747038281	Marionette	INFO	Listening on port 53973
+1533747038651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 19016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19016, JavaScript error: https://preprod.ct.wolterskluwer.com/cart, line 105: TypeError: connection.transport is null
+[Child 16700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16700, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533833356479	geckodriver	INFO	geckodriver 0.21.0
+1533833356496	geckodriver	INFO	Listening on 127.0.0.1:61356
+1533833359299	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.y0pJfaPDmK9a"
+[Child 16544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 165441533833379250	Marionette	INFO	Listening on port 61364
+1533833379578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 7924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12768, Chrome[Parent 7924, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533834810999	geckodriver	INFO	geckodriver 0.21.0
+1533834811015	geckodriver	INFO	Listening on 127.0.0.1:61955
+1533834813948	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.ZUB6Xjw4O653"
+1533834819256	Marionette	INFO	Listening on port 61964
+1533834819780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533835020611	geckodriver	INFO	geckodriver 0.21.0
+1533835020627	geckodriver	INFO	Listening on 127.0.0.1:62123
+1533835023598	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.PNG0CgLCZjGd"
+1533835028128	Marionette	INFO	Listening on port 62131
+1533835028645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533835354467	geckodriver	INFO	geckodriver 0.21.0
+1533835354483	geckodriver	INFO	Listening on 127.0.0.1:62365
+1533835357433	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.y0dZjU9I8qWK"
+1533835361797	Marionette	INFO	Listening on port 62373
+1533835362189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 18644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533835734890	geckodriver	INFO	geckodriver 0.21.0
+1533835734890	geckodriver	INFO	Listening on 127.0.0.1:62621
+1533835737893	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.4kcmbzN269h9"
+1533835743097	Marionette	INFO	Listening on port 62629
+1533835743628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533836973480	geckodriver	INFO	geckodriver 0.21.0
+1533836973480	geckodriver	INFO	Listening on 127.0.0.1:63754
+1533836976434	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.Ihom4pfNLvmo"
+1533836982912	Marionette	INFO	Listening on port 63766
+1533836983635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 17580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 18124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533837182040	geckodriver	INFO	geckodriver 0.21.0
+1533837182056	geckodriver	INFO	Listening on 127.0.0.1:64210
+1533837185059	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.0ieLvy05nhIf"
+1533837190635	Marionette	INFO	Listening on port 64222
+1533837190893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 13700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 7204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533848816307	geckodriver	INFO	geckodriver 0.21.0
+1533848816317	geckodriver	INFO	Listening on 127.0.0.1:51581
+1535647701593	geckodriver	INFO	geckodriver 0.21.0
+1535647701604	geckodriver	INFO	Listening on 127.0.0.1:62310
+1535647704391	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.T6uzSwlRhxAm"
+1535647713042	Marionette	INFO	Listening on port 62322
+1535647713386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535648134176	geckodriver	INFO	geckodriver 0.21.0
+1535648134187	geckodriver	INFO	Listening on 127.0.0.1:63115
+1535648137157	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.423XNSt0RI2V"
+1535648142663	Marionette	INFO	Listening on port 63127
+1535648142847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 6104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[ChilJavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Child 4260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4260, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535648304586	geckodriver	INFO	geckodriver 0.21.0
+1535648304597	geckodriver	INFO	Listening on 127.0.0.1:63501
+1535648307570	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.YJ9rsr2lRPCW"
+1535648312397	Marionette	INFO	Listening on port 63513
+1535648312882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 13184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13184, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535648538996	geckodriver	INFO	geckodriver 0.21.0
+1535648539006	geckodriver	INFO	Listening on 127.0.0.1:63985
+1535648541987	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.77JcbkCDxNuI"
+1535648546948	Marionette	INFO	Listening on port 63997
+1535648547475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 16552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comm[Parent 17788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20660,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535651625332	geckodriver	INFO	geckodriver 0.21.0
+1535651625343	geckodriver	INFO	Listening on 127.0.0.1:52394
+1535651628311	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.32JRQp9KnU0w"
+1535651633912	Marionette	INFO	Listening on port 52402
+1535651634456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535651795392	geckodriver	INFO	geckodriver 0.21.0
+1535651795392	geckodriver	INFO	Listening on 127.0.0.1:52565
+1535651798364	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.ofTTWLD0N3co"
+1535651803971	Marionette	INFO	Listening on port 52573
+1535651804027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12036, Chrome_ChildThJavaScript error: https://preprod.ct.wolterskluwer.com/cart, line 105: TypeError: connection.transport is null
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535655693871	geckodriver	INFO	geckodriver 0.21.0
+1535655693876	geckodriver	INFO	Listening on 127.0.0.1:53272
+1535655696873	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.ekf3Qiq573lk"
+1535655701562	Marionette	INFO	Listening on port 53280
+1535655701984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 16728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Child 19004, Chrome_Chi[Parent 8732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12240, Chrome_ChildThread] WARNING: pipe error
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535655879492	geckodriver	INFO	geckodriver 0.21.0
+1535655879508	geckodriver	INFO	Listening on 127.0.0.1:53423
+1535655882478	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.Hb78ZrmU7A5Q"
+1535655886878	Marionette	INFO	Listening on port 53431
+1535655886976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535656055078	geckodriver	INFO	geckodriver 0.21.0
+1535656055078	geckodriver	INFO	Listening on 127.0.0.1:53616
+1535656058047	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.8GeSi9qHjg11"
+1535656062603	Marionette	INFO	Listening on port 53624
+1535656063123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 22864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22864
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535656641790	geckodriver	INFO	geckodriver 0.21.0
+1535656641800	geckodriver	INFO	Listening on 127.0.0.1:53905
+1535656644769	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.wuxXsSp0lGzI"
+1535656649470	Marionette	INFO	Listening on port 53913
+1535656649867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 17288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535660400710	geckodriver	INFO	geckodriver 0.21.0
+1535660400710	geckodriver	INFO	Listening on 127.0.0.1:58745
+1535660403727	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.Uwo2NZ12nSls"
+1535660408911	Marionette	INFO	Listening on port 58753
+1535660409659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535660608713	geckodriver	INFO	geckodriver 0.21.0
+1535660608729	geckodriver	INFO	Listening on 127.0.0.1:58908
+1535660611646	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.zsP5GovUUw71"
+1535660616913	Marionette	INFO	Listening on port 58916
+1535660617276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535660823331	geckodriver	INFO	geckodriver 0.21.0
+1535660823346	geckodriver	INFO	Listening on 127.0.0.1:59084
+1535660826300	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.McqoN0rQL760"
+1535660831381	Marionette	INFO	Listening on port 59092
+1535660831857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 19732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535661420675	geckodriver	INFO	geckodriver 0.21.0
+1535661420686	geckodriver	INFO	Listening on 127.0.0.1:59690
+1535661423620	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.EtGFqt1yzSQ1"
+1535661429162	Marionette	INFO	Listening on port 59702
+1535661429203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535728168422	geckodriver	INFO	geckodriver 0.21.0
+1535728168438	geckodriver	INFO	Listening on 127.0.0.1:57100
+1535728171380	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.54COd2V3pdi4"
+1535728178692	Marionette	INFO	Listening on port 57122
+1535728179169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/kendo.aspnetmvc.min.js, line 9: TypeError: window.kendo is undefined
+JavaScript error: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Areas/Dashboard/Scripts/Dashboard.js, line 76: ReferenceError: kendo is not defined
+JavaScript error: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Areas/Dashboard/Scripts/Dashboard.js, line 238: ReferenceError: kendo is not defined
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 18408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21112, Chrome_ChildThread] WARNING: pipe error: 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535728932391	geckodriver	INFO	geckodriver 0.21.0
+1535728932407	geckodriver	INFO	Listening on 127.0.0.1:58504
+1535728935324	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.IbO75hC1UvaN"
+1535728941152	Marionette	INFO	Listening on port 58516
+1535728941623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535729404799	geckodriver	INFO	geckodriver 0.21.0
+1535729404799	geckodriver	INFO	Listening on 127.0.0.1:59454
+1535729407786	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.xDkA5GeUF8sp"
+1535729412967	Marionette	INFO	Listening on port 59462
+1535729413412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24376, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535730773735	geckodriver	INFO	geckodriver 0.21.0
+1535730773735	geckodriver	INFO	Listening on 127.0.0.1:60012
+1535730776772	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.iWXILJTQU17z"
+1535730781894	Marionette	INFO	Listening on port 60020
+1535730782444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 18908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18908, Chrome_ChildThread] WARNIN
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535731666399	geckodriver	INFO	geckodriver 0.21.0
+1535731666400	geckodriver	INFO	Listening on 127.0.0.1:60371
+1535731669400	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.BXHJoZ0IUgfH"
+1535731674032	Marionette	INFO	Listening on port 60379
+1535731674450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 24640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535732815960	geckodriver	INFO	geckodriver 0.21.0
+1535732815972	geckodriver	INFO	Listening on 127.0.0.1:60798
+1535732855904	geckodriver	INFO	geckodriver 0.21.0
+1535732855914	geckodriver	INFO	Listening on 127.0.0.1:60815
+1535732858901	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.2QaQYpo65X0z"
+1535732863561	Marionette	INFO	Listening on port 60823
+1535732864063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 17568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17568
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535745187783	geckodriver	INFO	geckodriver 0.21.0
+1535745187803	geckodriver	INFO	Listening on 127.0.0.1:64879
+1535745307967	geckodriver	INFO	geckodriver 0.21.0
+1535745307979	geckodriver	INFO	Listening on 127.0.0.1:64919
+1535745310966	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.OWueE9bp3xlD"
+1535745319363	Marionette	INFO	Listening on port 64927
+1535745319935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 13512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13512, Chrome_ChildThread] WARNING: pipe 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535746053477	geckodriver	INFO	geckodriver 0.21.0
+1535746053488	geckodriver	INFO	Listening on 127.0.0.1:65357
+1535746056426	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.BZ07Chz8TMnf"
+1535746062406	Marionette	INFO	Listening on port 65365
+1535746062852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 55
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535746673684	geckodriver	INFO	geckodriver 0.21.0
+1535746673695	geckodriver	INFO	Listening on 127.0.0.1:49344
+1535746676681	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.q6TORReUYuTf"
+1535746681855	Marionette	INFO	Listening on port 49352
+1535746682606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_w[Child 19144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19144,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535747156530	geckodriver	INFO	geckodriver 0.21.0
+1535747156546	geckodriver	INFO	Listening on 127.0.0.1:49740
+1535747159499	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.dN6UYkdEwAyK"
+1535747165161	Marionette	INFO	Listening on port 49753
+1535747165734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535747679410	geckodriver	INFO	geckodriver 0.21.0
+1535747679424	geckodriver	INFO	Listening on 127.0.0.1:50153
+1535747682424	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.USx41VyjvnGH"
+1535747687916	Marionette	INFO	Listening on port 50161
+1535747688008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 4112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 4112, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535748204739	geckodriver	INFO	geckodriver 0.21.0
+1535748204751	geckodriver	INFO	Listening on 127.0.0.1:50505
+1535748207696	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.in0lA052EnL9"
+1535748212593	Marionette	INFO	Listening on port 50513
+1535748212659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GPU 10296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535748684365	geckodriver	INFO	geckodriver 0.21.0
+1535748684376	geckodriver	INFO	Listening on 127.0.0.1:50860
+1535748687344	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.SrzodW3PtEYX"
+1535748692202	Marionette	INFO	Listening on port 50868
+1535748692294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535983910193	geckodriver	INFO	geckodriver 0.21.0
+1535983910218	geckodriver	INFO	Listening on 127.0.0.1:52911
+1535983913053	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.P9Y3RhZpJlze"
+[Parent 13408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535983933262	Marionette	INFO	Listening on port 52919
+1535983934445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 22684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535984236540	geckodriver	INFO	geckodriver 0.21.0
+1535984236551	geckodriver	INFO	Listening on 127.0.0.1:53146
+1535984239489	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.6oj1XCUN0UpN"
+1535984246688	Marionette	INFO	Listening on port 53155
+1535984247373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/kendo.aspnetmvc.min.js, line 9: TypeError: window.kendo is undefined
+JavaScript error: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Areas/Dashboard/Scripts/Dashboard.js, line 76: ReferenceError: kendo is not defined
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/cart, line 105: TypeError: connection.transport is null
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535984551047	geckodriver	INFO	geckodriver 0.21.0
+1535984551063	geckodriver	INFO	Listening on 127.0.0.1:53468
+1535984554053	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.3ky1Caq5Xb8Z"
+[Child 23564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1535984566995	Marionette	INFO	Listening on port 53477
+1535984567507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 1224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 17616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 17616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535984772900	geckodriver	INFO	geckodriver 0.21.0
+1535984772915	geckodriver	INFO	Listening on 127.0.0.1:53603
+1535984775914	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.KCJmQlnRBIAH"
+1535984782330	Marionette	INFO	Listening on port 53611
+1535984783134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535987307838	geckodriver	INFO	geckodriver 0.21.0
+1535987307847	geckodriver	INFO	Listening on 127.0.0.1:54468
+1535987310821	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.0pihvBwlJvsC"
+1535987318725	Marionette	INFO	Listening on port 54476
+1535987319227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Parent 22660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10648, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535987598858	geckodriver	INFO	geckodriver 0.21.0
+1535987598889	geckodriver	INFO	Listening on 127.0.0.1:54640
+1535987601813	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.FN1vDCtpEZ1G"
+1535987607760	Marionette	INFO	Listening on port 54648
+1535987608295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s[Child 21712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536168145348	geckodriver	INFO	geckodriver 0.21.0
+1536168145363	geckodriver	INFO	Listening on 127.0.0.1:57697
+1536168148182	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.g8ZjaDDSW6J9"
+[Chil1536168160416	Marionette	INFO	Listening on port 57710
+1536168160986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/relic/preprod.js, line 1: NetworkError: A network error occurred.
+[Parent 2540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5304, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536168404640	geckodriver	INFO	geckodriver 0.21.0
+1536168404640	geckodriver	INFO	Listening on 127.0.0.1:58499
+1536168407610	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.ab5pzPqSkcTP"
+1536168414212	Marionette	INFO	Listening on port 58511
+1536168414331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 26556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26556, Chrome_ChildThread] WARNING: pipe e
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536169144098	geckodriver	INFO	geckodriver 0.21.0
+1536169144114	geckodriver	INFO	Listening on 127.0.0.1:60388
+1536169147063	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.d8NxCL7flx1A"
+[Child 19412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536169159499	Marionette	INFO	Listening on port 60401
+1536169159513	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0054,name=PContent::Msg_ProvideAnonymousTemporaryFile) Closed channel: cannot send/recv
+
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536169439343	geckodriver	INFO	geckodriver 0.21.0
+1536169439359	geckodriver	INFO	Listening on 127.0.0.1:61309
+1536169442332	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.h4GcKmzYZ2vF"
+1536169447973	Marionette	INFO	Listening on port 61321
+1536169448448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 26376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+c/chrome/common/ipc_channel_win.cc, line 346
+[Child 26376, Chrome_ChildThread] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536173866416	geckodriver	INFO	geckodriver 0.21.0
+1536173866416	geckodriver	INFO	Listening on 127.0.0.1:54405
+1536173869389	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.qRIQhWhHjVgP"
+1536173874930	Marionette	INFO	Listening on port 54417
+1536173874945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://preprod.ct.wolterskluwer.com/sites/all/themes/ct/js/1.8.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://assets.adobedtm.com/389b68ea4a3840b8ce7b8b36e1f4e5a2524d5d88/satelliteLib-ca17ba93ef995a058d64d9675e373059bb3bc763.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Child 20000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536174251270	geckodriver	INFO	geckodriver 0.21.0
+1536174251270	geckodriver	INFO	Listening on 127.0.0.1:55469
+1536174254264	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.94wnQunPoRXv"
+1536174260363	Marionette	INFO	Listening on port 55481
+1536174260981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 24084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536174832438	geckodriver	INFO	geckodriver 0.21.0
+1536174832454	geckodriver	INFO	Listening on 127.0.0.1:57157
+1536174835433	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.gbIOPYfrVRh2"
+1536174841107	Marionette	INFO	Listening on port 57171
+1536174841125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 15528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536175316354	geckodriver	INFO	geckodriver 0.21.0
+1536175316354	geckodriver	INFO	Listening on 127.0.0.1:58611
+1536175319328	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.WrGw6bDc0Nmy"
+1536175325373	Marionette	INFO	Listening on port 58636
+1536175325516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://preprod.ct.wolterskluwer.com/pre-prod/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 22668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr[Child 13036, Chrome_ChildThread] WA[Child 22540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22540, Chrome_ChildThread] WARNING:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536246553118	geckodriver	INFO	geckodriver 0.21.0
+1536246553133	geckodriver	INFO	Listening on 127.0.0.1:64266
+1536246556164	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.7vzPzIs4RRCz"
+[Parent 24840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20232, Chrome_ChildThread]1536246576281	Marionette	INFO	Listening on port 64291
+1536246576407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://assets.adobedtm.com/389b68ea4a3840b8ce7b8b36e1f4e5a2524d5d88/satelliteLib-ca17ba93ef995a058d64d9675e373059bb3bc763.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Parent 24840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3704, Chrome_ChildThread] WARNIN
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+G: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 3704, Chrome_ChildThread] WARNING
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536251618578	geckodriver	INFO	geckodriver 0.21.0
+1536251618690	geckodriver	INFO	Listening on 127.0.0.1:60423
+1536251621262	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ENRIQU~1.D\\AppData\\Local\\Temp\\rust_mozprofile.bFOsnzsq9I0D"
+[Parent 11740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1536251635192	Marionette	INFO	Listening on port 60450
+1536251639025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/kendo.aspnetmvc.min.js, line 9: TypeError: window.kendo is undefined
+JavaScript error: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Areas/Dashboard/Scripts/Dashboard.js, line 76: ReferenceError: kendo is not defined
+JavaScript error: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Areas/Dashboard/Scripts/Dashboard.js, line 238: ReferenceError: kendo is not defined
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.SSPWeb//Scripts/jquery-2.0.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://qa1.smbstaging.com/QA/QA/CTCorp.WebCart/Scripts/jquery-1.10.2.min.js, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

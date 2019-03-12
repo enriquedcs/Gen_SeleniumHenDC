@@ -110,7 +110,7 @@ class IcartOrderPage(SeleniumDriver):
     def navigateToTargetName(self, targetN = "HCLAutomation"):
         self.waitForElement(self._target_name, locatorType="id", timeout=2)
         self.sendKeys(targetN, self._target_name, locatorType="id")
-
+    # 112 - Corporation 113 - Limited Liability Company 114 - Non - Profit
     def navigateToBusiness(self, corporationT = "112"):
         self.selectType(corporationT, locator=self._business_structure, locatorType="id")
 
@@ -205,11 +205,11 @@ class IcartOrderPage(SeleniumDriver):
         self.navigateToPayNow()
         self.navigateToInvoice()
         self.navigateToPlaceOrder()
-        time.sleep(2)
+        time.sleep(4)
 
 
     def verifyOrderConfirmation(self):
-        time.sleep(1)
+        time.sleep(2)
         self.waitForElement(locator=self._order_placed, locatorType="id", timeout=10)
         result = self.isElementPresent(locator=self._order_placed,
                                        locatorType="id")

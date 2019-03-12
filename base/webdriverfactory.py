@@ -41,21 +41,17 @@ class WebDriverFactory():
         Returns:
             'WebDriver Instance'
         """
-        #baseURL = "https://preprod.ct.wolterskluwer.com/"
-        #baseURL = "http://qa1.smbstaging.com/"
-        #baseURL = "http://enrique.decoss:Ae1883iv$@10.204.239.110/QA/CT.CTCorp.OrderSearch/Dashboard/CreateOrder.aspx/"
-        #baseURL = "http://10.204.239.110/QA/CTCorp.WebAPI/CreateOrder/Dashboard/NAEnriqueDecoss"
 
-        if self.env == "qact":
+        if self.env == "qa":
             #Set ctcorp QA
             baseURL = "http://qa1.smbstaging.com/"
-        elif self.env == "prepct":
+        elif self.env == "prep":
             baseURL = "https://preprod.ct.wolterskluwer.com/"
-        elif self.env == "portal":
+        elif self.env == "prod":
             baseURL = "https://ct-portal-skeleton-ui.azurewebsites.net/customers"
-        elif self.env == "qaicart":
+        elif self.env == "dev":
             baseURL = "http://10.204.239.110/QA/CTCorp.WebAPI/CreateOrder/Dashboard/NAEnriqueDecoss"
-        elif self.env == "prepicart":
+        elif self.env == "other":
             baseURL = "http://10.205.224.91/CTCorp.WebAPI/CreateOrder/Dashboard/NAEnriqueDecoss"
         else:
             baseURL = "http://qa1.smbstaging.com/"

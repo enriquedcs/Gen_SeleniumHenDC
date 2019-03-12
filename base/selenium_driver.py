@@ -198,7 +198,7 @@ class SeleniumDriver():
         """
         METHOD
         Wait on an element
-        Timeout is default 15 seconds but it can be less or bigger than that
+        Timeout is default 10 seconds but it can be less or bigger than that
         """
         element = None
         try:
@@ -216,3 +216,4 @@ class SeleniumDriver():
             self.log.info("PASS: Element appeared on the web page")
             print_stack()
         return element
+

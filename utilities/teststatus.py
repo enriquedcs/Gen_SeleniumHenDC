@@ -1,5 +1,5 @@
 """
-Author: Enrique DeCoss
+Author: Enrique Decoss
 @package utilities
 
 CheckPoint class implementation
